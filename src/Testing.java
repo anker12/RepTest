@@ -4,5 +4,7 @@ public class Testing {
         System.out.println(";D");
         System.out.println("Denne er nu pushed?"); //Rettet fejl her
         System.out.println("Lol bro");
+        System.out.println("Lol bro2");
+
     }
 }
